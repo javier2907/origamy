@@ -8,7 +8,7 @@ Render HTML from PHP code
 
 <img src="https://raw.githubusercontent.com/javier2907/javier2907/main/OrgamyBanner.png" alt="Orgamy" style="max-width:100%;" width="600">
 
-### What is Orgamy?
+### What is Origamy?
 
 The main idea of ​​this project is to be able to render html in a simple and integrated way in PHP as one more class with its respective functions, taking advantage of the power of object-oriented programming.
 
