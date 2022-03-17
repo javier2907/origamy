@@ -1,7 +1,7 @@
 # origamy
 Render HTML from PHP code
 
-**Orgamy** is a **PHP** code to render **HTML** code easy
+**Origamy** is a **PHP** code to render **HTML** code easy
 
 ![Licence](https://img.shields.io/github/license/iquetzalcoatl/qtzl-lib)
 ![forks](https://img.shields.io/github/forks/iquetzalcoatl/qtzl-lib)
