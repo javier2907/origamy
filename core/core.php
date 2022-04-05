@@ -10,7 +10,7 @@ class BeautifyAPI{
     var $output;
     
     function beautifyHTML($html){
-        $this->url = '1.0/htmlbeautify/';
+        $this->url = $this->url.'1.0/htmlbeautify/';
         $data = array(
             'apikey'=>$this->key,
             'html'=>$html
@@ -326,7 +326,7 @@ class Format extends Engine{
         $this->html.='
 </body>
 </html>';
-        if (!$output) {
+        if ($output) {
             echo $this->html;
         }else{
             return $this->html;
